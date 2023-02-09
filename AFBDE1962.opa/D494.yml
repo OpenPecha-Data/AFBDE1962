@@ -1,0 +1,15 @@
+segment_sources:
+  I35853383:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: 071C
+  IAD3F3CA4:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: 4D5A
+segment_pairs:
+  7a424313f2734e9aa97a887e465200e5:
+    I35853383: 0b89920c2bfc464894f63da7f83829ca
+    IAD3F3CA4: 431ed36972b44defa75a9df911d9b893

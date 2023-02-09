@@ -1,0 +1,15 @@
+id: AFBDE1962
+title: 'MSV 6,00: Uttaragrantha 2'
+type: translation
+pechas:
+- I35853383
+- IAD3F3CA4
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:12:05.074434
+  last_modified_at: 2023-02-10 00:12:05.074447
+alignment_to_base:
+  I35853383/071C: D494
+  IAD3F3CA4/4D5A: D494
